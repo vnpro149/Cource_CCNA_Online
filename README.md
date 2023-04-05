@@ -1,4 +1,4 @@
-# Cource_CCNA_Online!
+# Course_CCNA_Online!
 ![ccna online 6-4](https://user-images.githubusercontent.com/129259654/229974526-55933b71-01ca-4784-8b16-ee3657c39c98.jpg)
 
 # Nội dung khóa học
